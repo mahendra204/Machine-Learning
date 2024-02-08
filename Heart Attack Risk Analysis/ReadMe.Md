@@ -12,7 +12,8 @@ family history, smoking habits, obesity, and alcohol consumption. Additionally, 
 and sedentary hours are included. Medical aspects comprising previous heart problems, medication usage, and triglyceride levels are considered. 
 Socioeconomic aspects such as income and geographical attributes like country, continent, and hemisphere are incorporated.
 
-Evaluation
+#Evaluation
+
 Submissions will be scored by Accuracy
 Accuracy is the number of predictions (that your model made) that match the true labels of the data. Consider a dataset with two possible "classes",
 0 and 1. Given the dataset and the model predictions below, we say that the model's accuracy is 4/5 = 0.8, since it labelled 4 data points correctly.
