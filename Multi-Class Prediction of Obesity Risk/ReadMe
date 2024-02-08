@@ -1,0 +1,15 @@
+Kaggle Machine Learning Competitions Project
+
+The goal of this competition is to use various factors to predict obesity risk in individuals, which is related to cardiovascular disease. Good luck!
+
+Submissions are evaluated using the accuracy score.
+
+
+The dataset  forthis competition (both train and test) was generated from a deep learning model trained on the Obesity or CVD risk dataset. Feature distributions are close to, but not exactly the same, as the original. Feel free to use the original dataset as part of this competition, both to explore differences as well as to see whether incorporating the original in training improves model performance.
+
+Note: This dataset is particularly well suited forvisualizations, clustering, and general EDA. Show off your skills!
+
+Files
+train.csv - the training dataset; NObeyesdad is the categorical target
+test.csv - the test dataset; your objective is to predict the class of NObeyesdad foreach row
+sample_submission.csv - a sample submission file inthe correct format
